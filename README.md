@@ -6,9 +6,7 @@
 ### 👨‍💻 About Me
 - 🔐 Passionate about **Cyber Security**, Ethical Hacking, and Penetration Testing  
 - 🛠️ Currently learning **Web Application Security**, **Network Security**, and **Red Teaming**  
-- 🐞 Actively hunting bugs on platforms like **HackerOne** & **Bugcrowd**  
 - 📚 Always exploring new vulnerabilities and security tools  
-- 🎯 Goal: Become a professional **OSCP-certified Penetration Tester**
 
 ---
 
@@ -18,13 +16,13 @@
 - OWASP Testing Methodology • Recon Techniques
 
 #### 💻 Programming
-- Python • Bash • JavaScript  
+- Python • C • C++
 
 #### 🖥️ Operating Systems
-- Kali Linux • Parrot OS • Windows • Ubuntu  
+- Linux • Windows
 
 #### ☁️ Other Knowledge
-- Web Security • Networking • APIs • Git & GitHub  
+- Web Security • Networking • Git & GitHub  
 
 ---
 
