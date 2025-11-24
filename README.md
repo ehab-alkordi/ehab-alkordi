@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ehab</h1>
+<h3 align="center">Cyber Security Enthusiast | Penetration Tester | Bug Hunter</h3>
 
-<!--
-**ehab-alkordi/ehab-alkordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔐 Passionate about **Cyber Security**, Ethical Hacking, and Penetration Testing  
+- 🛠️ Currently learning **Web Application Security**, **Network Security**, and **Red Teaming**  
+- 🐞 Actively hunting bugs on platforms like **HackerOne** & **Bugcrowd**  
+- 📚 Always exploring new vulnerabilities and security tools  
+- 🎯 Goal: Become a professional **OSCP-certified Penetration Tester**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+#### 🔎 Penetration Testing
+- Burp Suite • Nmap • Metasploit • Nikto • SQLMap  
+- OWASP Testing Methodology • Recon Techniques
+
+#### 💻 Programming
+- Python • Bash • JavaScript  
+
+#### 🖥️ Operating Systems
+- Kali Linux • Parrot OS • Windows • Ubuntu  
+
+#### ☁️ Other Knowledge
+- Web Security • Networking • APIs • Git & GitHub  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Projects I'm Working On
+- 🔸 Web Vulnerability Scanner  
+- 🔸 Custom Recon Automation Tool  
+- 🔸 Password Cracking Lab with Hashcat & John the Ripper  
+
+---
+
+### 📫 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> •
+  <a href="https://twitter.com/YOUR_USERNAME">Twitter</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
+
+⭐ **Feel free to star my repositories or reach out for collaboration!**
